@@ -1,6 +1,7 @@
 {
     "name": "tourcms/tourcms-php",
     "type": "library",
+    "version": "4.7.0",
     "description": "TourCMS API wrapper for PHP",
     "keywords": ["tourcms","api"],
     "homepage": "https://github.com/dosancom/tourcms-php",
