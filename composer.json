@@ -3,7 +3,7 @@
     "type": "library",
     "description": "TourCMS API wrapper for PHP",
     "keywords": ["tourcms","api"],
-    "homepage": "https://github.com/TourCMS/tourcms-php",
+    "homepage": "https://github.com/dosancom/tourcms-php",
     "license": "MIT",
     "authors": [
         {
